@@ -7,13 +7,13 @@
 	<title>Register Customer</title>
 	</head>
 <body>
-	<form>
-  <div class="container">
-    <div class="form-group col-md-6">
+<form method="post">
+  <div class="container col-md-6">
+    <div class="form-group col-md-12">
       <label for="inputEmail4">Email</label>
       <input required type="email" class="form-control" id="inputEmail4" placeholder="Email" name="email">
     </div>
-	
+	<div class="form-row">
     <div class="form-group col-md-6">
       <label for="inputPassword4">Password</label>
       <input required type="password" class="form-control" id="inputPassword4" placeholder="Password" name="password1">
@@ -23,20 +23,22 @@
       <label for="inputPassword5">Confirm Password</label>
       <input required type="password" class="form-control" id="inputPassword5" placeholder="Retype Password" name="password2">
     </div>
-  
+  	</div>
 	<div class="form-group col-md-12">
 	<label for="inputAddress" >Address Line 1</label>
 	<input required type="text" class="form-control" id="inputAddress" placeholder="Street" name="address1">
-	</div>
+	</div> 
 	<div class="form-group col-md-12">
 	<label for="inputAddress2">Address Line 2</label>
 	<input required type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor" name="address2">
 	</div>
-	  
-    <div class="form-group col-md-6">
+	
+    <div class="form-group col-md-3">
       <label for="inputCity">City</label>
       <input required type="text" class="form-control" id="inputCity" name="city">
     </div>
+
+    
     <div class="form-group col-md-4">
       <label for="inputState">State</label>
       <select required id="inputState" class="form-control" name="state_dropdown">
