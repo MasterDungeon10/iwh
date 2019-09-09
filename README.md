@@ -4,7 +4,14 @@ IP mini-project
 Dear community members, we three : Neeraj Kondalkar
                                    Ekanth Hanchate
                                    Chirag Jain
-     are supposed to work on this project together.
 jobs assigned -
 Neeraj Kondalkar : backend and content in website
 Ekanth Hanchate and Chirag Jain : CSS for frontend
+
+How to ?  STEPS:
+1) Login to your GitHub account
+2) In the search bar type -   NeerajKondalkar
+3) Go to repository iwh
+4) On the right side click on clone or download to dowload the repository
+5) Now work on the files you just downloaded, locally.
+6) After you finish editing, again go to NeerajKondlakar/iwh repository on GitHub and 
