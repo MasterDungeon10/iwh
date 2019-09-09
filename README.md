@@ -18,4 +18,5 @@ How to ?  STEPS:
    click on the filename that you edited locally.
    For ex.  You cloned/downloaded NeerajKondalkar/iwh.
             Unzipped the iwh.zip to a folder on desktop
-            Within this folder on desktop, you edited the file login.html by adding a background image in that 
+            Within this folder on desktop, you edited the file login.html by changing the background image.
+            Now, with these changes saved locally, Go to NeerajKondalkar/iwh repository and click on login.html(because you edited login.html locally) and
